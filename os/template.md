@@ -1,30 +1,30 @@
-#운영체제란
+# 운영체제란
 
-#프로세스 vs 스레드
+# 프로세스 vs 스레드
 
-#프로세스 주소 공간
+# 프로세스 주소 공간
 
-#인터럽트(Interrupt)
+# 인터럽트(Interrupt)
 
-#시스템 콜(System Call)
+# 시스템 콜(System Call)
 
-#PCB와 Context Switching
+# PCB와 Context Switching
 
-#IPC(Inter Process Communication)
+# IPC(Inter Process Communication)
 
-#CPU 스케줄링
+# CPU 스케줄링
 
-#데드락(DeadLock)
+# 데드락(DeadLock)
 
-#Race Condition
+# Race Condition
 
-#세마포어(Semaphore) & 뮤텍스(Mutex)
+# 세마포어(Semaphore) & 뮤텍스(Mutex)
 
-#페이징 & 세그먼테이션 (PDF)
+# 페이징 & 세그먼테이션 (PDF)
 
-#페이지 교체 알고리즘
+# 페이지 교체 알고리즘
 
-#메모리(Memory)
+# 메모리(Memory)
 
-#파일 시스템
+# 파일 시스템
 
